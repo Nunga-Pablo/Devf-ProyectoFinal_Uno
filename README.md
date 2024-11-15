@@ -3,8 +3,9 @@
 Este proyecto es un compendio de todo lo aprendido durante el primer modulo del master FrontEnd de DEV.F para crear y publicar una página web básica con HTML y GitHub pages. Donde se demuestra que se tiene el entendimiento
 de como construir una página desde cero y como se organizan sus elementos clave. Ademas, se demuestra que se sabe usar Git y Github para manejar y compartir el código como en proyecto real.
 
-Enlace del repositorio de GitHub: 
-Enlace de la GitHubPage: 
+- Autor: Pablo Rodrigo Nungaray Salazar
+- Enlace del repositorio de GitHub: https://github.com/Nunga-Pablo/Devf-ProyectoFinal_Uno.git
+- Enlace de la GitHubPage: https://nunga-pablo.github.io/Devf-ProyectoFinal_Uno/
 
 ## Objetivos de aprendizaje
 
@@ -48,11 +49,11 @@ Enlace de la GitHubPage:
   
 - Control de Versiones: Usa git para controlar las versiones de tu código durante el desarrollo del proyecto.
 
-  ![Vista previa]()
+  ![Vista previa](https://i.postimg.cc/DZfw7SSb/Git.png)
 
 - GitHub Pages: Publica la página web en línea utilizando GitHub Pages
   
-  ![Vista previa]()
+  ![Vista previa](https://i.postimg.cc/QMFrmcKm/page.png)
 
 
 
