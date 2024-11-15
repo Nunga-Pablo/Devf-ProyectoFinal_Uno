@@ -55,5 +55,24 @@ de como construir una página desde cero y como se organizan sus elementos clave
   
   ![Vista previa](https://i.postimg.cc/QMFrmcKm/page.png)
 
+## Detalles Extra
 
+Se agregaron algunos detalles extra, tales como 
 
+- Espacios en blanco con "&nbsp ;"
+- Centrado de texto e imagenes con "center"
+  
+  ![Vista previa](https://i.postimg.cc/qR4n3c7b/center.png)
+
+- Atributo "title" a la etiqueta "img" para visualizar algun texto al pasar el cursor
+  
+  ![Vista previa](https://i.postimg.cc/gJ2jpgjW/title.png)
+
+- Uso de imagenes con enlace combinando "img" y "a"
+  
+  ![Vista previa](https://i.postimg.cc/wB6T5whm/redes.png)
+
+- Ayuda de ChatGPT para obtener información de manera más rapida
+
+  ![Vista previa](https://i.postimg.cc/s2DGfjHq/gpt.png)
+  
